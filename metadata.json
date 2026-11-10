@@ -1,0 +1,6 @@
+{
+  "name": "탈것 중장비 조립 & 주차 놀이",
+  "description": "굴착기, 불도저, 덤프트럭, 경찰차 등 실사 기반 탈것 8~10조각 부품 맞추기, 원인과 결과 인터랙티브 작동, 그리고 운전 & 주차 미션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
